@@ -1,0 +1,23 @@
+{
+  "name": "gogh",
+  "version": "0.0.1",
+  "description": "An NPM package to find N discrete colours from a gradient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChildishhAlbino/Gogh.git"
+  },
+  "author": "Connor Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChildishhAlbino/Gogh/issues"
+  },
+  "homepage": "https://github.com/ChildishhAlbino/Gogh#readme",
+  "dependencies": {
+    "hex-and-rgba": "^1.4.2"
+  }
+}
